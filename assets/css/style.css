@@ -1,0 +1,50 @@
+.container {
+    padding-top: 80px;
+    height: 700px;
+    background-color: yellow;
+    margin: 40px 100px 50px 100px;
+    border: thick
+}
+
+#name {
+    font-size: 80px;
+    color: blue;
+   
+}
+
+body {
+    color: orange
+}
+
+
+
+#start {
+    /* padding-left: 400px; */
+    margin: 100px;
+    width: 600px;
+    color: blue
+}
+
+#choice1 {
+    margin: 10px;
+    width: 600px;
+    color: blue
+}
+
+#choice2 {
+    margin: 10px;
+    width: 600px;
+    color: blue
+}
+
+#choice3 {
+    margin: 10px;
+    width: 600px;
+    color: blue
+}
+
+#choice4 {
+    margin: 10px;
+    width: 600px;
+    color: blue;
+}
